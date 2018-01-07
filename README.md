@@ -1,8 +1,6 @@
 # gps_clock
 An Arduino-based GPS clock using a microcontroller with a gps attachment and a 12-neopixel ring. I based this project on Adafruit's awesome Neopixel watch: https://learn.adafruit.com/flora-geo-watch/overview
 
-This is my first github submission, so be gentle. I'm an artist, not a programmer.
-
 View my initial finished product here:
 https://www.instagram.com/p/BdodW2RlL-l/?taken-by=jblakeh1
 
